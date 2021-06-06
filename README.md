@@ -6,3 +6,4 @@ Then using following comment to test the queries.
 python query_neo4j.py k
 
 where k is the parameter for LCKR.
+If there are errors with the libraries of python, just install them and go on.
